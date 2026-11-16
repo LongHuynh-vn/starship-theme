@@ -1,0 +1,5 @@
+{
+  "name": "starship-theme",
+  "owner": { "name": "LongHuynh-vn" },
+  "plugins": [{ "name": "starship-theme", "source": "./" }]
+}
