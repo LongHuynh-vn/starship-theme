@@ -55,3 +55,7 @@ claude plugin test .
 ```
 
 The scene is one SVG per look and layout, built as a string in `hooks/starship.ts` and animated by its own CSS. `hooks/make-colors.js` is the palette helper that ships with Claude Code's mod-authoring skill, copied as it is.
+
+## License
+
+MIT. The full text is in the LICENSE file beside this one. `hooks/make-colors.js` and `hooks/make-colors.d.ts` are not this project's own work: they are the palette helper from Claude Code's mod-authoring skill, included unchanged.
